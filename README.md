@@ -8,7 +8,7 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 * Link : https://www.kaggle.com/datasets/ramyharik/ff-2024-08-13-multi-modal-dataset-13
 
 ## Dataset for Google Colab
-* Link : https://drive.google.com/drive/folders/133EhXn-87eVgVXWfoVx-bKM6uwy9qhoD
+* Link : https://drive.google.com/drive/folders/1qkE7suLerbn4aBD4ZFyMlKmlNV9bkUIQ
 
 # AE(AutoEncoder)
 * Reference Link 1 : https://github.com/AntixK/PyTorch-VAE (VAE)
