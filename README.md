@@ -11,6 +11,18 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 * Multimodal Data Link : https://drive.google.com/drive/folders/1qkE7suLerbn4aBD4ZFyMlKmlNV9bkUIQ
 * Sensor Data Link (with Label) : https://drive.google.com/drive/folders/1R71k4fW60_n5c6xpqV3_a8dTtf7nWYnK
 
+# Code Description
+
+1. ANP: Probabilistic time-series modeling for high-frequency sensor data prediction.
+
+2. VAE: High-level visual feature extraction and latent representation of process images.
+
+3. grad-CAM: Visual explanation and evidence localization for anomaly detection via Grad-CAM & Eigen-CAM.
+
+4. train: Multimodal fusion and joint training using visual and sensor information for VAE-ANP combined model.
+
+5. XAI_test: Anomaly detection evaluation and automated root cause analysis.
+
 # AE(AutoEncoder)
 * Reference Code Link 1 : https://github.com/AntixK/PyTorch-VAE (VAE)
 * Reference Code Link 2 : https://github.com/rosinality/vq-vae-2-pytorch (VQ-VAE)
