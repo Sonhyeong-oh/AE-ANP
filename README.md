@@ -21,9 +21,9 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 
 3. grad-CAM: Visual explanation and evidence localization for anomaly detection via Grad-CAM & Eigen-CAM.
 
-4. train: Multimodal fusion and joint training using visual and sensor information for VAE-ANP combined model.
+4. train_v2: Multimodal fusion and joint training using visual and sensor information for VAE-ANP combined model.
 
-5. XAI_test: Anomaly detection evaluation and automated root cause analysis.
+5. XAI_test10: Anomaly detection evaluation and automated root cause analysis.
 
 # AE(AutoEncoder)
 * Reference Code Link 1 : https://github.com/AntixK/PyTorch-VAE (VAE, CVAE)
