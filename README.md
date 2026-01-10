@@ -28,7 +28,7 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 # AE(AutoEncoder)
 * Reference Code Link 1 : https://github.com/AntixK/PyTorch-VAE (VAE, CVAE)
 * Reference Code Link 2 : https://github.com/rosinality/vq-vae-2-pytorch (VQ-VAE)
-* Reference Paper (VAE) : https://arxiv.org/abs/1312.6114 (Diederik P Kingma, Max Welling, "Auto-Encoding Variational Bayes", 2013)
+* Reference Paper (VAE) : https://arxiv.org/abs/1312.6114
 * Reference Paper (CVAE) : https://proceedings.neurips.cc/paper_files/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf
 
 # ANP(Attentive Neural Process)
