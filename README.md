@@ -15,17 +15,11 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 
 # Code Description
 
-1. ANP: Probabilistic time-series modeling for high-frequency sensor data prediction.
+1. CVAE-ANP : Suggested Model Files
 
-2. VAE: High-level visual feature extraction and latent representation of process images.
+2. VAE-LSTM : Comparative Model Files
 
-3. grad-CAM: Visual explanation and evidence localization for anomaly detection via Grad-CAM & Eigen-CAM.
-
-4. train_v2: Multimodal fusion and joint training using visual and sensor information for VAE-ANP combined model.
-
-5. XAI_test10: Anomaly detection evaluation and automated root cause analysis.
-
-6. train_cvae_anp2.py: Multimodal fusion and joint training using visual and sensor information for CVAE-ANP combined model (change VAE to CVAE).
+3. train_test : Training and Testing CVAE-ANP & VAE-LSTM
 
 # AE(AutoEncoder)
 * Reference Code Link 1 : https://github.com/AntixK/PyTorch-VAE (VAE, CVAE)
@@ -36,3 +30,8 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 # ANP(Attentive Neural Process)
 * Reference Code Link : https://github.com/wassname/attentive-neural-processes
 * Reference Paper : https://arxiv.org/abs/1901.05761 (Hyunjik Kim, et al., "Attentive Neural Processes", 2019)
+
+# VAE-LSTM
+
+* Reference Paper :
+https://link.springer.com/article/10.1007/s44196-024-00644-z (Andrea Pinto, et al., "Enhancing Critical Infrastructure Security: Unsupervised Learning Approaches for Anomaly Detection", 2024)
