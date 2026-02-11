@@ -1,0 +1,49 @@
+{
+    "exp_name": "NAB",
+    "dataset": "D:/archive/Final",
+    "y_scale": 5,
+    "one_image": 0,
+    "l_seq": 12,
+    "l_win": 48,
+    "n_channel": 1,
+    "TRAIN": 1,
+    "TRAIN_sigma": 0,
+    "batch_size": 64,
+    "load_model": 1,
+    "load_dir": "default",
+    "num_epochs": 50,
+    "learning_rate": 0.0001,
+    "code_size": 64,
+    "sigma": 0.1,
+    "sigma2_offset": 0.01,
+    "num_hidden_units": 512,
+    "result_dir": "/content/drive/MyDrive/Result_VL/",
+    "train_sensor_data_path": "/content/preproc_train_data_final.xlsx",
+    "val_sensor_data_path": "/content/preproc_val_data_final.xlsx",
+    "test_sensor_data_path": "/content/preproc_test_data_final.xlsx",
+    "train_image_dirs": [
+        "/content/Final/Image/train/BATCH1000", "/content/Final/Image/train/BATCH2000",
+        "/content/Final/Image/train/BATCH3000", "/content/Final/Image/train/BATCH4000",
+        "/content/Final/Image/train/BATCH5000", "/content/Final/Image/train/BATCH6000",
+        "/content/Final/Image/train/BATCH7000", "/content/Final/Image/train/BATCH8000",
+        "/content/Final/Image/train/BATCH9000", "/content/Final/Image/train/BATCH10000",
+        "/content/Final/Image/train/BATCH11000", "/content/Final/Image/train/BATCH12000",
+        "/content/Final/Image/train/BATCH13000", "/content/Final/Image/train/BATCH14000",
+        "/content/Final/Image/train/BATCH15000", "/content/Final/Image/train/BATCH16000",
+        "/content/Final/Image/train/BATCH17000", "/content/Final/Image/train/BATCH18000",
+        "/content/Final/Image/train/BATCH19000"
+    ],
+    "val_image_dirs": [
+       "/content/Final/Image/val/BATCH20000",
+        "/content/Final/Image/val/BATCH21000", 
+        "/content/Final/Image/val/BATCH22000"
+    ],
+    "test_image_dirs": [
+        "/content/Final/Image/test/BATCH24000",
+        "/content/Final/Image/test/BATCH71000",
+        "/content/Final/Image/test/BATCH72000"
+    ],
+    "image_height": 720,
+    "image_width": 1080,
+    "num_img_channels": 3
+}
